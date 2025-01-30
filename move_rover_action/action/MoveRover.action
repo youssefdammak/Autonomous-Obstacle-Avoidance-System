@@ -1,0 +1,10 @@
+# Goal definition
+float32 distance  # Distance in meters
+---
+# Result
+bool success
+---
+# Feedback
+string progress  # Distance covered so far
+
+
